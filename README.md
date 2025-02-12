@@ -1,6 +1,9 @@
 <div align="center">
-  <!-- Custom Header with Dynamic Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,27&height=300&section=header&text=TIMA%20Tech&fontSize=90&animation=twinkling&fontAlignY=35&desc=Integrated%20Technology%20Solutions&descSize=30&descAlignY=60"/>
+  <!-- Company Logo -->
+  <img src="https://via.placeholder.com/150?text=TIMA+Logo" alt="TIMA Tech Logo" width="150" style="margin-bottom: 20px;"/>
+
+  <!-- Custom Header with Dynamic Wave (Royal Blue Text) -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,27&height=300&section=header&text=TIMA%20Tech&fontSize=90&animation=twinkling&fontAlignY=35&desc=Integrated%20Technology%20Solutions&descSize=30&descAlignY=60&fontColor=4169E1" alt="TIMA Tech Dynamic Header"/>
 
   <!-- Innovative Tagline Display -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Cloud+Engineering+Excellence;Next-Gen+Software+Development;Business+Process+Innovation;Global+Technology+Training" alt="TIMA Services"/>
@@ -44,7 +47,6 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,docker,kubernetes" />
   </div>
 </div>
-
 
 ## 💫 Service Excellence
 
@@ -100,8 +102,6 @@
   <!-- Service Excellence Banner -->
   <img src="https://img.shields.io/badge/Our_Promise-Innovative_Solutions_With_Lasting_Impact-20232A?style=for-the-badge&logoColor=white"/>
 </div>
-
-[Rest of the sections remain the same]
 
 ## 🎯 Our Impact
 
