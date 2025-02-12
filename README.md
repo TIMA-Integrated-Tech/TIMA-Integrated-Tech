@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Company Logo -->
-  <img src="[https://via.placeholder.com/150?text=TIMA+Logo](https://github.com/TIMA-Integrated-Tech/TIMA-Integrated-Tech/blob/main/Tima%20logo.png" alt="TIMA Tech Logo" width="150" style="margin-bottom: 20px;"/>
+  <img src="./Tima logo.png" alt="TIMA Tech Logo" width="150" style="margin-bottom: 20px;"/>
 
   <!-- Custom Header with Dynamic Wave (Royal Blue Text) -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,27&height=300&section=header&text=TIMA%20Tech&fontSize=90&animation=twinkling&fontAlignY=35&desc=Integrated%20Technology%20Solutions&descSize=30&descAlignY=60&fontColor=4169E1" alt="TIMA Tech Dynamic Header"/>
